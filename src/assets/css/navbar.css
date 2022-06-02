@@ -1,0 +1,30 @@
+/* The navigation bar */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #EEBC1D;
+    height: 60px;
+    overflow: hidden;
+    background-color: #15161A;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* The navigation bar light theme */
+.navbar-light {
+    background-color: white;
+    color: #7c6009;
+}
+
+/* The navigation bar change theme button */
+.navbar .change-theme {
+    float: left;
+    display: block;
+    text-align: center;
+    font-size: 1.6rem;
+    padding: 14px 16px;
+    text-decoration: none;
+}
