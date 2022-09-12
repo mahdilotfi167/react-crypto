@@ -1,3 +1,3 @@
 # React crypto project
 
-this is a test project
+A crypto price front end powered by react
