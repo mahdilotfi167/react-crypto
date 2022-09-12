@@ -14,7 +14,7 @@ export default function Home() {
             </div>
             <h1 className="text-header">Search &<br/> Buy <span>Crypto</span></h1>
             <p className="text">Shahid Beheshti University</p>
-            <p className="text">IE: Final Project</p>
+            <p className="text">Mahdi Lotfi</p>
             <Link to="search" className="btn">SEARCH MORE</Link>
             <div className="cryto-blocks">
                 {
